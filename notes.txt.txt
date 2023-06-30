@@ -1,0 +1,5 @@
+In programul cerut, am facut legatura prin API pentru a afla prognoza meteo pentru urmatoarele 14 zile.
+De asemenea am calculat sansa de precipitatii prin formula urmatoare: 50% + sansa de precipitatii(de pe site) - sansa de vant
+Pentru implementarea mea se mai pot adauga foarte multe detalii, eu nu sunt foarte familiarizat cu react, dar am invatat acum putin ca sa pot face acest proiect. Pentru optimizari se mai pot face: schimbarea orasului(pentru a vedea vremea si in alte orase), afisarea unui grafic pe 14 zile cu vremea, afisarea umiditatii din aer, afisarea calitatii aerului, afisarea presiunii atmosferice, si multe alte detalii.
+De asemenea am mai incercat sa afisez vremea pe fiecare ora in parte, dar nu am reusit, asa ca am lasat in program doar vremea pe toata ziua.
+
